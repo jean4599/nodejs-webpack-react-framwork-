@@ -1,6 +1,10 @@
 # nodejs-webpack-react-framwork
-How to run? \n
-npm init \n
-npm install \n
-npm run dev \n
+##How to run?
+
+npm init
+
+npm install
+
+npm run dev
+
 Check http://localhost:3000/
